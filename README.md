@@ -3,7 +3,7 @@
 <p>Welcome to Pythoplat! You're a king who has been kidnapped by the evil fish emperor of the fish dimension. He trapped you there.</p>
 <p>You must find the key and get to the door to escape from the fish dimension.</p>
 <img src="https://github.com/Handy443/PyGame-Pythoplat/blob/master/screenshots/MC.PNG" width="500" align = "left">
-<p></p>
+
 <img src="https://github.com/Handy443/PyGame-Pythoplat/blob/master/screenshots/SC2.PNG" width="500" align = "left">
 
 <img src="https://github.com/Handy443/PyGame-Pythoplat/blob/master/screenshots/SC3" width="500" align = "left">
